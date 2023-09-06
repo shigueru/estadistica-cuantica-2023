@@ -1,0 +1,39 @@
+site_name: Cursos Programa de Doctorado en Fisicoquímica Molecular 2023
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: es
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: indigo
+      accent: teal
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: indigo
+      accent: pink
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/shiguerunagatat
+      name: Shigueru Nagata en Instagram
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<s.nagatatejada@uandresbello.edu>
+      name: Envíame un email
+
+copyright: |
+  &copy; 2023 <a href="https://instagram.com/shiguerunagatat"  target="_blank" rel="noopener">Shigueru Nagata</a>
